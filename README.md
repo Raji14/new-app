@@ -1,2 +1,0 @@
-# new-app
-Begin app
